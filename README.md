@@ -1,16 +1,20 @@
-# flashchat
+# Flash Chat ⚡️
 
-A new Flutter project.
+The Flash Chat App is a real-time messaging application built using Flutter and Firebase. It allows users to sign up, log in, and exchange messages instantly with other users. Key features include Firebase authentication for user management and Firestore for real-time message syncing. The app is designed with a clean, responsive UI, making it a great introduction to backend integration and real-time data handling in mobile app development.
 
-## Getting Started
+## What you I created
 
-This project is a starting point for a Flutter application.
+Built a modern messaging app where users can sign up and log in to chat.
 
-A few resources to get you started if this is your first Flutter project:
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## What you I learnen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- How to incorporate Firebase into Flutter projects.
+- How to use Firebase authentication to register and sign in users.
+- How to create beautiful animations using the Flutter Hero widget.
+- How to create custom aniamtions using Flutter's animation controller.
+- Learned all about mixins and how they differ from superclasses.
+- Learned about Streams and how they work.
+- Learned to use ListViews to build scrolling views.
+- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
